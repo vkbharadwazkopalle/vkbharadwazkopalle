@@ -12,6 +12,6 @@
 
 ## [Projects](./PROJECTS.MD)
 
-I have listed out all my projects with excruciating details to help me keep track of my work.  
+I have listed out all my projects with details to help me keep track of my work.  
 
 
