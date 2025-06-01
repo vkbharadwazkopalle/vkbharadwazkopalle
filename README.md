@@ -20,7 +20,10 @@
 - 👯 I’m looking to collaborate as a **cofounder**
 - 📫 I'm Active on: 
   - [LinkedIn](https://www.linkedin.com/in/vkbharadwazkopalle)
-  - **Youtube channel** [Programming constructs](https://www.youtube.com/@ProgrammingConstructs)  
+  - **Youtube channels**
+    - [Programming Languages & Research](https://www.youtube.com/@ProgrammingConstructs)
+    - [Cloud Computing](https://www.youtube.com/@CloudConstructs)
+    - [AI/ML](https://www.youtube.com/@MLConstructs)
   - **Blog** [Medium](https://vkbharadwazkopalle.medium.com/)
 - 🎯 Goals: Build great apps that people love to use on a daily basis and enjoy the journey
 
