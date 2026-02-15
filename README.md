@@ -1,13 +1,15 @@
-### Hi there 👋, I'm an Expert Software Engineer :man_technologist: with full stack experience in 
+### Hi there 👋, I'm an Expert Software Engineer :man_technologist: with AI/ML experience 
+- LLMs
+- Agentic AI
+- AWS, GP, Azure
 - [Angular](https://github.com/angular/angular)
 - [Python](https://www.python.org/)
 - [Golang](https://go.dev/)
 - [Nodejs](https://nodejs.org/en)
 
-### I have my fingers in other pies like **React, Vue, Rust.**
+### I'm intrested in advancing computer science field.
 
-### Like any other curious engineer, I'm exploring the GenAI space building apps with it.
-
+### Like any other curious engineer, I'm building in the ML space 
 ### 🔭 I’m currently working on 
   - Dedicated **IDE** for [Angular](https://github.com/angular/angular) ( I'm a big fan of it )
   - Dedicated **IDE** for [Golang](https://go.dev/) ( Love it )
