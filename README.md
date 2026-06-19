@@ -1,16 +1,22 @@
-### Hi there 👋, I'm an Expert Software Engineer :man_technologist: with AI/ML experience 
-- LLMs
-- Agentic AI
-- AWS, GP, Azure
+### Hi there 👋, I'm fullstack & AI Engineer :man_technologist: with experience in
+- LLMs, Agentic AI, AI tooling, MLOps, LLMOps
+- cloud technologies - AWS, GP, Azure
 - [Angular](https://github.com/angular/angular)
 - [Python](https://www.python.org/)
 - [Golang](https://go.dev/)
 - [Nodejs](https://nodejs.org/en)
 
-### I'm intrested in advancing computer science field.
+### I also provide corporate training on latest technologies. My latest series covered 
+- Serveress Technologies across AWS, GCP, Azure
+- Cloud Data lake architectures with Amazon Glue & S3
+- Building GenAI apps with Amazon Bedrock
 
-### Like any other curious engineer, I'm building in the ML space 
-### 🔭 I’m currently working on 
+### Intrested to pursue an active research career in AI & ML technologies 
+### 🔭 I’m currently working on
+  - Building Small Language Models(SLMs) with domain expertise to solve unique problems in 3 different technologies to understand the efficiencies
+    -  Python
+    -  Golang
+    -  Rust
   - Dedicated **IDE** for [Angular](https://github.com/angular/angular) ( I'm a big fan of it )
   - Dedicated **IDE** for [Golang](https://go.dev/) ( Love it )
   - Platform focused on **DevEx**
