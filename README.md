@@ -1,10 +1,11 @@
 ### Hi there 👋, I'm fullstack & AI Engineer :man_technologist: with experience in
-- LLMs, Agentic AI, AI tooling, MLOps, LLMOps
-- cloud technologies - AWS, GP, Azure
-- [Angular](https://github.com/angular/angular)
-- [Python](https://www.python.org/)
-- [Golang](https://go.dev/)
-- [Nodejs](https://nodejs.org/en)
+- Building
+  - Foundation Models
+  - Reasoning Models
+  - Gen AI Models
+- AI Generalist building production systems at scale
+- Generalist with Full stack & Cloud experience
+- I believe in **Build till you understand**
 
 ### I also provide corporate training on latest technologies. My latest series covered 
 - Serveress Technologies across AWS, GCP, Azure
